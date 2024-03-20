@@ -207,7 +207,9 @@ padding: 7px 15px;
          position: relative;
     }
 	p.section_count {
-		display: none;
+        font-size: 50px;
+		font-weight: 200;
+    line-height: 35px;
 	}
      .lbox-details{
          position: relative;
